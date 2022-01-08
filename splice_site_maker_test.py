@@ -1,4 +1,3 @@
-# GTATGAGACT
 import splice_site_maker
 
 if splice_site_maker.splice_site_maker('ENSE00003915925') == 'GTATGAGACT':

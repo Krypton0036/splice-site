@@ -1,4 +1,3 @@
-# plan: function exon-splice site
 from pyfaidx import Fasta
 from pyensembl import EnsemblRelease
 import splice_counter
